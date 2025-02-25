@@ -1,0 +1,16 @@
+style.css
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 10px;
+    color: blue;
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px gray;
+}
